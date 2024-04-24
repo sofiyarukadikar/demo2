@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sofiyarukadikar/demo2/static/css/main.1a48fe69.css",
+    "main.js": "/sofiyarukadikar/demo2/static/js/main.69880957.js",
+    "static/media/GoogleSans-Regular.ttf": "/sofiyarukadikar/demo2/static/media/GoogleSans-Regular.6c1be5cadff6ad16ad5f.ttf",
+    "static/media/GoogleSans-Medium.ttf": "/sofiyarukadikar/demo2/static/media/GoogleSans-Medium.2ecb22264e6eff1b65c2.ttf",
+    "index.html": "/sofiyarukadikar/demo2/index.html",
+    "main.1a48fe69.css.map": "/sofiyarukadikar/demo2/static/css/main.1a48fe69.css.map",
+    "main.69880957.js.map": "/sofiyarukadikar/demo2/static/js/main.69880957.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a48fe69.css",
+    "static/js/main.69880957.js"
+  ]
+}
